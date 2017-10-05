@@ -1672,3 +1672,21 @@
 2017/10/05 11:27:59 [error] 21409#0: *1 open() "/home/super_user/nginx/html/11" failed (2: No such file or directory), client: 127.0.0.1, server: 192.168.122.121, request: "GET /11 HTTP/1.1", host: "localhost:8080"
 2017/10/05 11:28:02 [error] 21409#0: *1 access forbidden by rule, client: 127.0.0.1, server: 192.168.122.121, request: "GET /status HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
 2017/10/05 11:38:20 [error] 21623#0: *2 access forbidden by rule, client: 127.0.0.1, server: 192.168.122.121, request: "GET /status HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2017/10/05 11:51:25 [emerg] 21943#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:25 [emerg] 21943#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:25 [emerg] 21943#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:25 [emerg] 21943#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:27 [emerg] 21945#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:25 [emerg] 21943#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:27 [emerg] 21945#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:25 [emerg] 21943#0: still could not bind()
+2017/10/05 11:51:27 [emerg] 21945#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:27 [emerg] 21945#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:27 [emerg] 21945#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:51:27 [emerg] 21945#0: still could not bind()
+2017/10/05 11:52:02 [emerg] 21970#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:52:02 [emerg] 21970#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:52:02 [emerg] 21970#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:52:02 [emerg] 21970#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:52:02 [emerg] 21970#0: bind() to 0.0.0.0:8080 failed (98: Address already in use)
+2017/10/05 11:52:02 [emerg] 21970#0: still could not bind()
